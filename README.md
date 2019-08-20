@@ -1,6 +1,4 @@
-# crm-app
-
-CRM
+CRM-APP
 ===
 
 Customer Relationship Management (CRM) Software made with Swing, JDBC, MySql. This Software is a mini version which has the following features - 
